@@ -1,0 +1,19 @@
+-
+  version: 2.2.0
+  pub_date: 2018-08-23T00:00:00.000Z
+  notes: |
+    * **Bugfix**: Resolve sync issue that edited note sometimes unexpectedly got lost
+    * **Improvement**: Make a copy of a note when detected an update conflict
+    * **Improvement**: Update note list immediately after saving editing note (Thanks Sceptic)
+-
+  version: 2.1.0
+  pub_date: 2018-08-13T00:00:00.000Z
+  notes: |
+    * **New feature**: Task progress view
+    * **New feature**: Show invisible characters (Thanks Sceptic)
+    * **Bugfix**: Fixed a problem syncing currently editing note
+-
+  version: 2.0.0
+  pub_date: 2018-07-04T00:00:00.000Z
+  notes: |
+    * **New feature**: Built from scratch! Read [this blogpost](https://blog.inkdrop.info/inkdrop-mobile-v2-has-been-released-4b0b69bba7f0) to learn more.
