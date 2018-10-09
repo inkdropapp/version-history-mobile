@@ -1,5 +1,11 @@
 # Inkdrop for Mobile - Release Notes
 
+## v2.2.1
+2018-10-09
+
+* *Improvement*: [iOS] Support 6.5" Display
+* *Bugfix*: [iOS] Fix a bug where note conflicts often occur on iPad
+
 ## v2.2.0
 2018-08-23
 

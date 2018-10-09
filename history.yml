@@ -1,4 +1,10 @@
 -
+  version: 2.2.1
+  pub_date: 2018-10-09T00:00:00.000Z
+  notes: |
+    * *Improvement*: [iOS] Support 6.5" Display
+    * *Bugfix*: [iOS] Fix a bug where note conflicts often occur on iPad
+-
   version: 2.2.0
   pub_date: 2018-08-23T00:00:00.000Z
   notes: |
