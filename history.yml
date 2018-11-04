@@ -1,4 +1,13 @@
 -
+  version: 2.3.0
+  pub_date: 2018-11-04T00:00:00.000Z
+  notes: |
+    * **New Feature**: Support changing editor font family (Thanks [Kurt](https://forum.inkdrop.info/t/ios-app-font/790))
+    * **Improvement**: [Android] Support enabling Gboard (Experimental) (Thanks [David](https://forum.inkdrop.info/t/android-version-disables-glide-typing-on-google-keyboard/644))
+    * **Improvement**: Auto-save after 5 seconds
+    * **Improvement**: Fix CJK input problem
+    * **Improvement**: Scroll to cursor position on focus (Thanks Otawara-san)
+-
   version: 2.2.1
   pub_date: 2018-10-09T00:00:00.000Z
   notes: |

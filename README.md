@@ -1,10 +1,19 @@
 # Inkdrop for Mobile - Release Notes
 
+## v2.3.0
+2018-11-04
+
+* **New Feature**: Support changing editor font family (Thanks [Kurt](https://forum.inkdrop.info/t/ios-app-font/790))
+* **Improvement**: [Android] Support enabling Gboard (Experimental) (Thanks [David](https://forum.inkdrop.info/t/android-version-disables-glide-typing-on-google-keyboard/644))
+* **Improvement**: Auto-save after 5 seconds
+* **Improvement**: Fix CJK input problem
+* **Improvement**: Scroll to cursor position on focus (Thanks Otawara-san)
+
 ## v2.2.1
 2018-10-09
 
-* *Improvement*: [iOS] Support 6.5" Display
-* *Bugfix*: [iOS] Fix a bug where note conflicts often occur on iPad
+* **Improvement**: [iOS] Support 6.5" Display
+* **Bugfix**: [iOS] Fix a bug where note conflicts often occur on iPad
 
 ## v2.2.0
 2018-08-23
