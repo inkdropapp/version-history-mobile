@@ -1,5 +1,11 @@
 # Inkdrop for Mobile - Release Notes
 
+## v2.3.1
+2018-11-07
+
+* **Bugfix**: The editor unexpectedly scrolls up when auto-save (Thanks Yoshioka-san and Otawara-san)
+* **Bugfix**: Image widgets become invisible when editing note got synced
+
 ## v2.3.0
 2018-11-04
 
