@@ -1,4 +1,11 @@
 -
+  version: 2.4.0
+  pub_date: 2018-11-14T00:00:00.000Z
+  notes: |
+    * **New feature**: Inline HTML support
+    * **Bugfix**: Cursor jumps to invalid position when got focus at the bottom of the note
+    * **Bugfix**: The editor is unloaded when the app resumed from background (Thanks Takeuchi-san)
+-
   version: 2.3.1
   pub_date: 2018-11-07T00:00:00.000Z
   notes: |

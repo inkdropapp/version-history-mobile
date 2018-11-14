@@ -1,5 +1,12 @@
 # Inkdrop for Mobile - Release Notes
 
+## v2.4.0
+2018-11-14
+
+* **New feature**: Inline HTML support
+* **Bugfix**: Cursor jumps to invalid position when got focus at the bottom of the note
+* **Bugfix**: The editor is unloaded when the app resumed from background (Thanks Takeuchi-san)
+
 ## v2.3.1
 2018-11-07
 
