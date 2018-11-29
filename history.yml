@@ -1,4 +1,11 @@
 -
+  version: 2.4.1
+  pub_date: 2018-11-29T00:00:00.000Z
+  notes: |
+    * Bugfix: Table align doesn't work
+    * Bugfix: Trashed notes with status are shown in the note list of status columns (Thanks Ikeda-san)
+    * Bugfix: Sync status view is distractive on tablets
+-
   version: 2.4.0
   pub_date: 2018-11-14T00:00:00.000Z
   notes: |

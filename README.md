@@ -1,5 +1,12 @@
 # Inkdrop for Mobile - Release Notes
 
+## v2.4.1
+2018-11-29
+
+* Bugfix: Table align doesn't work
+* Bugfix: Trashed notes with status are shown in the note list of status columns (Thanks Ikeda-san)
+* Bugfix: Sync status view is distractive on tablets
+
 ## v2.4.0
 2018-11-14
 
