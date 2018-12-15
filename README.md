@@ -1,5 +1,10 @@
 # Inkdrop for Mobile - Release Notes
 
+## v2.4.2
+2018-12-14
+
+* Bugfix: The app is stuck on white screen after logging in in some case (Thanks Otawara-san)
+
 ## v2.4.1
 2018-11-29
 

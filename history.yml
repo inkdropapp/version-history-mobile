@@ -1,4 +1,9 @@
 -
+  version: 2.4.2
+  pub_date: 2018-12-14T00:00:00.000Z
+  notes: |
+    * Bugfix: The app is stuck on white screen after logging in in some case (Thanks Otawara-san)
+-
   version: 2.4.1
   pub_date: 2018-11-29T00:00:00.000Z
   notes: |
