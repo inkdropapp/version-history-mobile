@@ -3,14 +3,14 @@
 ## v2.4.2
 2018-12-14
 
-* Bugfix: The app is stuck on white screen after logging in in some case (Thanks Otawara-san)
+* **Bugfix**: The app is stuck on white screen after logging in in some case (Thanks Otawara-san)
 
 ## v2.4.1
 2018-11-29
 
-* Bugfix: Table align doesn't work
-* Bugfix: Trashed notes with status are shown in the note list of status columns (Thanks Ikeda-san)
-* Bugfix: Sync status view is distractive on tablets
+* **Bugfix**: Table align doesn't work
+* **Bugfix**: Trashed notes with status are shown in the note list of status columns (Thanks Ikeda-san)
+* **Bugfix**: Sync status view is distractive on tablets
 
 ## v2.4.0
 2018-11-14
