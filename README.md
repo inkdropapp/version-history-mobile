@@ -1,5 +1,11 @@
 # Inkdrop for Mobile - Release Notes
 
+## v2.4.3
+2019-01-11
+
+* **Chore**: Fix internal compatibility check
+* **Chore**: Update domain
+
 ## v2.4.2
 2018-12-14
 
