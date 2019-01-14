@@ -1,6 +1,6 @@
 {
   "name": "inkdrop-version-history-mobile",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "description": "The version history of Inkdrop for mobile",
   "main": "index.js",
   "scripts": {
