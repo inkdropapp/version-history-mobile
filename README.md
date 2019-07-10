@@ -1,5 +1,22 @@
 # Inkdrop for Mobile - Release Notes
 
+## v3.1.0
+2019-07-07
+
+* **Bugfix**: Syncing with Android not working in some cases
+* **Bugfix**: Sort order is not properly preserved when loading more items on note list bar
+* **Bugfix**: Trigger indexing FTS when sync finished
+
+## v3.0.0
+2019-06-05
+
+* **New feature**: End-to-end encryption support
+* **Improvement**: New app icon
+* **Improvement**: Sync notes in background
+* **Improvement**: Great performance improvement on full-text search
+* **Improvement**: Cleaner search bar
+* **Bugfix**: Emptying trash not working
+
 ## v2.4.3
 2019-01-11
 

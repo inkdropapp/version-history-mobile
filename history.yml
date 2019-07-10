@@ -1,4 +1,21 @@
 -
+  version: 3.1.0
+  pub_date: 2019-07-07T00:00:00.000Z
+  notes: |
+    * **Bugfix**: Syncing with Android not working in some cases
+    * **Bugfix**: Sort order is not properly preserved when loading more items on note list bar
+    * **Bugfix**: Trigger indexing FTS when sync finished
+-
+  version: 3.0.0
+  pub_date: 2019-06-05T00:00:00.000Z
+  notes: |
+    * **New feature**: End-to-end encryption support
+    * **Improvement**: New app icon
+    * **Improvement**: Sync notes in background
+    * **Improvement**: Great performance improvement on full-text search
+    * **Improvement**: Cleaner search bar
+    * **Bugfix**: Emptying trash not working
+-
   version: 2.4.3
   pub_date: 2019-01-11T00:00:00.000Z
   notes: |
