@@ -1,5 +1,14 @@
 # Inkdrop for Mobile - Release Notes
 
+## v3.2.0
+2019-09-03
+
+NOTE: This version is released on Android only.
+
+* **Improvement**: Finally support Gboard
+
+Thank you so much you guys who helped me fix the issues on Gboard!!
+
 ## v3.1.0
 2019-07-07
 

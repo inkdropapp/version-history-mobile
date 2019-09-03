@@ -1,4 +1,13 @@
 -
+  version: 3.2.0
+  pub_date: 2019-09-03T00:00:00.000Z
+  notes: |
+    NOTE: This version is released on Android only.
+
+    * **Improvement**: Finally support Gboard
+
+    Thank you so much you guys who helped me fix the issues on Gboard!!
+-
   version: 3.1.0
   pub_date: 2019-07-07T00:00:00.000Z
   notes: |
