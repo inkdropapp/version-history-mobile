@@ -1,5 +1,35 @@
 # Inkdrop for Mobile - Release Notes
 
+## v3.3.0
+2019-09-18
+
+## New features
+
+* Selecting multiple notes
+* Highlighting tables and codeblocks in the editor
+* Long-press the note list item to show the note information screen
+* Duplicating notes (Thanks [James](https://forum.inkdrop.app/t/allow-one-to-duplicate-a-document-on-ios/1393))
+
+## Improvements
+
+* Better UI performance
+* Faster full-text search
+* Better UI performance on side bar
+* Support deleting the local db and syncing from scrach
+* Support dark theme for editor toolbar
+
+## Bugfix
+
+* Some memory leaks in data sync
+* Flashy modal screens
+* Cursor won't place correctly when scrolled down in your note (Thanks Sceptic)
+* Settings screen not working properly (Thanks Otawara-san)
+* Editor not updating when the note is updated via sync
+* Revert changes regarding checkpointers of data sync which might have been causing that some notes won't be synced in some cases
+* Avoid updating mde while composing CJK
+* Avoid unnecessary re-renderings for error boundary
+* (Android) Removing lines won't work properly (Thanks [Y_Ho](https://forum.inkdrop.app/t/cant-remove-text-in-android-app/1606))
+
 ## v3.2.0
 2019-09-03
 
