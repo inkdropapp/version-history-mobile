@@ -1,7 +1,7 @@
 # Inkdrop for Mobile - Release Notes
 
 ## v3.3.0
-2019-09-18
+2019-10-18
 
 ### New features
 
