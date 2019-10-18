@@ -3,14 +3,14 @@
 ## v3.3.0
 2019-09-18
 
-## New features
+### New features
 
 * Selecting multiple notes
 * Highlighting tables and codeblocks in the editor
 * Long-press the note list item to show the note information screen
 * Duplicating notes (Thanks [James](https://forum.inkdrop.app/t/allow-one-to-duplicate-a-document-on-ios/1393))
 
-## Improvements
+### Improvements
 
 * Better UI performance
 * Faster full-text search
@@ -18,7 +18,7 @@
 * Support deleting the local db and syncing from scrach
 * Support dark theme for editor toolbar
 
-## Bugfix
+### Bugfix
 
 * Some memory leaks in data sync
 * Flashy modal screens
