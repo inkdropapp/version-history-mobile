@@ -1,5 +1,12 @@
 # Inkdrop for Mobile - Release Notes
 
+## v3.3.1
+2019-10-23
+
+### Bugfix
+
+* Toggling checkboxes not working (Thanks Shota-san)
+
 ## v3.3.0
 2019-10-18
 

@@ -1,4 +1,11 @@
 -
+  version: 3.3.1
+  pub_date: 2019-10-23T00:00:00.000Z
+  notes: |
+    ### Bugfix
+
+    * Toggling checkboxes not working (Thanks Shota-san)
+-
   version: 3.3.0
   pub_date: 2019-10-18T00:00:00.000Z
   notes: |
