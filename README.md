@@ -1,5 +1,12 @@
 # Inkdrop for Mobile - Release Notes
 
+## v3.3.2
+2019-10-24
+
+### Bugfix
+
+* Inserting images not working
+
 ## v3.3.1
 2019-10-23
 

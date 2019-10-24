@@ -1,4 +1,11 @@
 -
+  version: 3.3.2
+  pub_date: 2019-10-24T00:00:00.000Z
+  notes: |
+    ### Bugfix
+
+    * Inserting images not working
+-
   version: 3.3.1
   pub_date: 2019-10-23T00:00:00.000Z
   notes: |
