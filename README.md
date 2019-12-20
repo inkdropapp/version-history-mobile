@@ -5,21 +5,21 @@
 
 ### New features
 
-* Notebook submenu
-  ![notebook submenu](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-notebook-submenu_2.png?raw=true)
+* Notebook submenu  
+  ![notebook submenu](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-notebook-submenu_2.png?raw=true)  
   ![notebook submenu](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-notebook-submenu.png?raw=true)
   Tap ">" button on the right of a notebook item on the sidebar.
   The submenu lists statuses and tags that are associated with notes in the selected notebook.
   You can learn more about [Notebook submenu here](https://docs.inkdrop.app/manual/navigating-notes).
-* Revision history
-  ![Revision history 1](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-revision-history_1.png?raw=true)
-  ![Revision history 2](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-revision-history_2.png?raw=true)
-  ![Revision history 3](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-revision-history_3.png?raw=true)
-  ![Revision history 4](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-revision-history_4.png?raw=true)
+* Revision history  
+  ![Revision history 1](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-revision-history_1.png?raw=true)  
+  ![Revision history 2](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-revision-history_2.png?raw=true)  
+  ![Revision history 3](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-revision-history_3.png?raw=true)  
+  ![Revision history 4](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-revision-history_4.png?raw=true)  
   You can restore an old note revision stored in your device locally.
   Lean more about [revision history here](https://docs.inkdrop.app/manual/revision-history).
-* Math support
-  ![Math support in preview](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-math-support.png?raw=true)
+* Math support  
+  ![Math support in preview](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.4.0-math-support.png?raw=true)  
   Built-in [math plugin](https://my.inkdrop.app/plugins/math).
 * Auto-backup for editing note  
   You can restore the last edit when the app crashed.
