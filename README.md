@@ -1,5 +1,25 @@
 # Inkdrop for Mobile - Release Notes
 
+## v3.5.0
+2020-01-23
+
+### New features
+
+* Global search
+* Advanced markdown renderer options (a.k.a. plugins for mobile)
+  - breaks
+  - embed
+  - flowchart
+  - markdown-emoji
+  - math
+  - mermaid
+  - sequence-diagrams
+  - toc
+
+### Bugfix
+
+* Tablet layout issue
+
 ## v3.4.0
 2019-12-23
 
