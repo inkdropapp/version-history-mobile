@@ -1,5 +1,20 @@
 # Inkdrop for Mobile - Release Notes
 
+## v3.6.0
+2020-02-28
+
+### New features
+
+* New syntax theme: material-dark-mod (Thanks [Otawara-san](https://forum.inkdrop.app/t/can-we-please-get-inkdrop-material-dark-mod-syntax-for-android/1737/5))
+  ![Material Dark Mod](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v3.6.0-material-dark-mod-syntax-theme.jpg?raw=true)
+  * You can change syntax theme from *sidebar -> Preferences -> Themes -> Syntax Theme*
+* (iOS) Support `inkdrop:` URL scheme to just open the app
+
+### Bugfix
+
+* Detect correct image MIME type
+* [sequence-diagram] lighter background color for dark UI themes (Thanks [Peilun](https://forum.inkdrop.app/t/low-visibility-of-sequence-diagram-when-using-with-dark-ui-theme/1754/6))
+
 ## v3.5.0
 2020-01-23
 
