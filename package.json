@@ -8,7 +8,8 @@
     "build:readme": "node index.js",
     "build:json": "js-yaml history.yml > history.json",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "docs:deploy": "env $(cat .env | xargs) ./docs-deploy.sh"
   },
   "keywords": [
     "inkdrop"
