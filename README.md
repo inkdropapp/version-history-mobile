@@ -1,15 +1,15 @@
 # Inkdrop for Mobile - Release Notes
 
-## v3.7.0
-2020-07-06
+## v4.0.0
+2020-09-01
 
 ### New features
 
-* Pin notes to top
-* Workspaces
+* [Pin notes to top](https://forum.inkdrop.app/t/pin-notes-and-reminder/672) (Thanks Andi, Alec, Bastian and Adelbert)
+* Support Workspace View
 * Collapse/expand notebook on sidebar
-* [Show sub-notebooks](https://forum.inkdrop.app/t/display-sub-notebooks-when-focussed-on-notebook/) in [notebook submenu](https://docs.inkdrop.app/manual/navigating-notes#notebook-submenu)  
-* [Remember sort & order](https://forum.inkdrop.app/t/save-remember-sort-order-settings-per-notebook/315) of note list per view (all/notebook/tag/status/pins)  
+* [Show sub-notebooks](https://forum.inkdrop.app/t/display-sub-notebooks-when-focussed-on-notebook/) in [notebook submenu](https://docs.inkdrop.app/manual/navigating-notes#notebook-submenu) (Thanks James and Jeremy)
+* [Remember sort & order](https://forum.inkdrop.app/t/save-remember-sort-order-settings-per-notebook/315) of note list per view (all/notebook/tag/status/pins)
 * Toggle task list item by tapping `[ ]` or `[x]`
 * Zoom preview
 * Refurbished icons
@@ -18,7 +18,6 @@
 * Improve search result by having bigger weight for title field (Thanks [Zhuolun and James](https://forum.inkdrop.app/t/how-to-search-notes-by-the-title/1849))
 
 ### Bugfix
-
 * List unindentation does not work properly
 
 ## v3.6.0
