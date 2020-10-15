@@ -1,7 +1,7 @@
 # Inkdrop for Mobile - Release Notes
 
 ## v4.1.0
-2020-09-03
+2020-10-15
 
 g'day. Automn is coming! 🍁
 
