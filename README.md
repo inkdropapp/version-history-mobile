@@ -1,5 +1,27 @@
 # Inkdrop for Mobile - Release Notes
 
+## v4.1.0
+2020-09-03
+
+g'day. Automn is coming! 🍁
+
+### Improvements
+* Faster launch speed
+* Set status and tag based on current query context (Thanks [Shogo-san](https://forum.inkdrop.app/t/topic/2060))
+  * When you are selecting a tag or status, new note will have the tag/status automatically.
+
+### Markdown renderer updates
+* mermaid now supports User journey diagram and Entity relationship diagrams
+
+### Bugfix
+* Pinned notes not listed at the top in tag and status groups (Thanks [Shimizu-san](https://forum.inkdrop.app/t/pin-to-top-not-working-with-tags-and-statuses/2078))
+
+## v4.0.1
+2020-09-03
+
+### Bugfix
+* Background note syncing not working on iOS
+
 ## v4.0.0
 2020-09-01
 
