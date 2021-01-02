@@ -1,18 +1,24 @@
 # Inkdrop for Mobile - Release Notes
 
-## v4.1.0
+## v4.0.3
+2021-01-02
+
+Happy new year!
+
+### Improvements
+* Support new internal note link format `inkdrop://note/***`
+* `title:` and `body:` search qualifier to filter notes by title or body (Thanks [Zhuolun](https://forum.inkdrop.app/t/how-to-search-notes-by-the-title/1849))
+
+## v4.0.2
 2020-10-15
 
 g'day. Automn is coming! 🍁
-
 ### Improvements
 * Faster launch speed
 * Set status and tag based on current query context (Thanks [Shogo-san](https://forum.inkdrop.app/t/topic/2060))
   * When you are selecting a tag or status, new note will have the tag/status automatically.
-
 ### Markdown renderer updates
 * mermaid now supports User journey diagram and Entity relationship diagrams
-
 ### Bugfix
 * Pinned notes not listed at the top in tag and status groups (Thanks [Shimizu-san](https://forum.inkdrop.app/t/pin-to-top-not-working-with-tags-and-statuses/2078))
 
