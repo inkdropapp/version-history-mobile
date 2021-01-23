@@ -1,5 +1,18 @@
 # Inkdrop for Mobile - Release Notes
 
+## v4.0.4
+2021-01-23
+
+Hey, we've got significant bug fixes here!
+
+* Editor toolbar is not showing correctly on iPhone 12 (Pro / Max) (Thanks [Hirofumi and Justin](https://forum.inkdrop.app/t/the-toolbar-above-the-keyboard-isn-t-fully-visible-on-ios/2287/8))
+* Status bar turns white while keyboard is displayed (Thanks [Hirofumi](https://forum.inkdrop.app/t/the-toolbar-above-the-keyboard-isn-t-fully-visible-on-ios/2287/8))
+* Attaching images is not working (Thanks [Usamao](https://forum.inkdrop.app/t/ios-take-photo/2252/6))
+* Crashes when deleting a notebook
+
+And some improvements
+* Bigger toolbar buttons to fit your fingers better(Thanks [Jan](https://forum.inkdrop.app/t/feedback-ios-mobile-app/2226))
+
 ## v4.0.3
 2021-01-02
 
