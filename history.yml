@@ -1,4 +1,15 @@
 -
+  version: 4.1.0
+  pub_date: 2021-02-26T00:00:00.000Z
+  notes: |
+    We've got significant performance improvement!
+
+    [![vlog](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v4.1.0-vlog.jpg?raw=true)](https://www.youtube.com/watch?v=vj723NlrIQc)
+
+    * Data sync and loading image speeds have been improved
+    * Use system color scheme for syntax theme by default
+    * Fixed TOC anchors not working
+-
   version: 4.0.4
   pub_date: 2021-01-23T00:00:00.000Z
   notes: |

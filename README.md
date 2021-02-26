@@ -1,5 +1,16 @@
 # Inkdrop for Mobile - Release Notes
 
+## v4.1.0
+2021-02-26
+
+We've got significant performance improvement!
+
+[![vlog](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v4.1.0-vlog.jpg?raw=true)](https://www.youtube.com/watch?v=vj723NlrIQc)
+
+* Data sync and loading image speeds have been improved
+* Use system color scheme for syntax theme by default
+* Fixed TOC anchors not working
+
 ## v4.0.4
 2021-01-23
 
