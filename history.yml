@@ -6,9 +6,9 @@
 
     [![vlog](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v4.1.0-vlog.jpg?raw=true)](https://www.youtube.com/watch?v=vj723NlrIQc)
 
-    * Data sync and loading image speeds have been improved
+    * Data sync and loading image speeds have been improved ([Thanks Marco](https://forum.inkdrop.app/t/2-images-1920x1080-not-loading-on-android/1898))
     * Use system color scheme for syntax theme by default
-    * Fixed TOC anchors not working
+    * Fixed TOC anchors not working (Thanks [T_Crain](https://forum.inkdrop.app/t/toc-links-not-working-on-mobile/2359))
 -
   version: 4.0.4
   pub_date: 2021-01-23T00:00:00.000Z
