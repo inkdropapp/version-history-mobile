@@ -1,4 +1,31 @@
 -
+  version: 4.2.0
+  pub_date: 2021-07-29T00:00:00.000Z
+  notes: |
+    ### Better note conflict resolution
+
+    It's now available on mobile, too. Never lose your changes 😎
+
+    In this update, it provides a dedicated UI for resolving the note conflicts.
+    You can view conflicted revisions respectively to manually resolve the conflicts, which would prevent losing your edits.
+
+    ![Conflicted note](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v4.2.0-better-conflict-resolution_1.png?raw=true)
+
+    ![Resolution menu](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v4.2.0-better-conflict-resolution_2.png?raw=true)
+
+    ![Reviewing a conflict revision](https://github.com/inkdropapp/version-history-mobile/blob/master/images/v4.2.0-better-conflict-resolution_3.png?raw=true)
+
+    You can view a conflicted revision as patch, which would be handy to manually resolve the conflict.
+
+    ### Improvements
+
+    * Plugins are updated. Math plugin now supports `{equation}` syntax! ([Learn more](https://my.inkdrop.app/plugins/math))
+
+    ### Bug fixes
+
+    * The initial sync not working for some old users (Thanks [Ben and Bertrand](https://forum.inkdrop.app/t/initial-sync-problem-with-android-4-1-0/2514))
+    * Images cannot be inserted on iOS (Thanks [Ryan, phi, and Tanin](https://forum.inkdrop.app/t/unable-to-upload-photo-on-ios/2372))
+-
   version: 4.1.0
   pub_date: 2021-02-26T00:00:00.000Z
   notes: |
