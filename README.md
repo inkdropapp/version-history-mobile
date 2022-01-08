@@ -1,5 +1,12 @@
 # Inkdrop for Mobile - Release Notes
 
+## v4.2.1
+2022-01-10
+
+### Bug fixes
+* Fixed the editor randomly crashes while in background on iOS
+* Fixed the app crashes on cancelling the image picker dialog
+
 ## v4.2.0
 2021-07-29
 

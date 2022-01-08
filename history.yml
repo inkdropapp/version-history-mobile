@@ -1,4 +1,11 @@
 -
+  version: 4.2.1
+  pub_date: 2022-01-10T00:00:00.000Z
+  notes: |
+    ### Bug fixes
+    * Fixed the editor randomly crashes while in background on iOS
+    * Fixed the app crashes on cancelling the image picker dialog
+-
   version: 4.2.0
   pub_date: 2021-07-29T00:00:00.000Z
   notes: |
