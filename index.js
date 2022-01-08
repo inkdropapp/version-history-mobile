@@ -3,11 +3,11 @@ var yaml = require('js-yaml')
 var dateFormat = require('dateformat')
 
 try {
-  var versions = yaml.safeLoad(fs.readFileSync('./history.yml', 'utf8'))
+  var versions = yaml.load(fs.readFileSync('./history.yml', 'utf8'))
   var md = '# Inkdrop for Mobile - Release Notes\n'
   md += '\n'
   md += versions
-    .map(function(hist) {
+    .map(function (hist) {
       var lines = '## v' + hist.version + '\n'
       if (hist.pub_date) {
         var pubDate = new Date(hist.pub_date)
